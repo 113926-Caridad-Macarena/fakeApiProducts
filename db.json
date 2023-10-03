@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id_product": 1,
+      "name": "Clavo", 
+      "description": "del 8",
+      "stock":1000,
+      "price":20
+    },
+    {
+      "id_product": 2,
+      "name": "Tornillo",
+      "description": "del 9",
+      "stock":500,
+      "price":30
+    },
+    {
+      "id_product": 3,
+      "name": "Amoladora",
+      "description": "la mejor",
+      "stock":2,
+      "price":2000
+    }
+  ]
+}
